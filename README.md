@@ -1,12 +1,5 @@
 # Algorithm-Visualizer
 
-###### Python 3.8.3, Algorithm Sorting Visualizer
+###### Built with: Python, matplotlib, PySimpleGUI
 
-Tools: Python, matplotlib, PySimpleGUI
-
-These include:
-  Bubble Sort
-  Lumoto Partition Scheme Quick Sort
-  Insertion Sort
-  Merge Sort
-  Shell Sort
+Supported algorithms include: Bubble Sort, Lumoto Partition Scheme Quick Sort, Insertion Sort, Merge Sort, Shell Sort
